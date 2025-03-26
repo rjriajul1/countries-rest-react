@@ -1,0 +1,61 @@
+.country{
+    border: 2px solid red;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    width: 400px;
+    height: 400px;
+}
+
+.name{
+    color: green;
+    font-weight: bold;
+    text-align: center;
+}
+.countryImg{
+    /* width: 100%; */
+    width: 400px;
+    border-radius: 20px;
+    height: 200px;
+    
+    border-radius: 30px;
+}
+
+.display{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+
+}
+
+.population{
+    font-size: 20px;
+    font-weight: bold;
+    color: green;
+
+}
+
+.btn-visited{
+    /* width: 100px; */
+    position: relative;
+    left: 40%;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: large;
+
+}
+
+.btn-not-visited{
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: large;
+}
+
+.visited-country{
+    background-color: gray;
+}
+
