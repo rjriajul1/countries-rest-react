@@ -4,3 +4,11 @@
     /* width: 100px;
     height: 200px; */
 }
+
+.flag{
+    width: 100px;
+    height: 70px;
+    padding: 10px;
+    object-fit: cover;
+
+}
